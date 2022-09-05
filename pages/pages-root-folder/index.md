@@ -56,10 +56,46 @@ Visit Canvas to see Zoom links for remote sessions in the first two weeks.
 
 For now, this page is a placeholder and holds frequently asked questions about
 the course. This site will switch to containing the official course website and
-syllabus at the start of winter quarter (early January 2022).
-
+syllabus at the start of winter quarter (September 19, 2022).
 
 **Q: Will the course have remote options?**
 
-Yes. The course will have remote lab options for the duration of the quarter.
-There will be in-person lab options starting week 5.
+No. Plan to attend all lecture and lab sessions in person. Participation
+policies will take into account that not all students can make it all the time,
+but we will not have remote equivalents for completing lab and lecture.
+
+**Q: Is participation required?**
+
+Yes. A final policy will be posted by the start of the quarter with details, but
+you should plan to attend both lecture and your assigned lab section every week.
+
+**Q: What about week 0 and Thanksgiving week?**
+
+There will be no official lab sessions in week 0 (because it would only be the
+Thursday lab sessions) and no lab on November 23/24. All students will have a
+shorter asynchronous activity in those times – in week 0 it will be about
+getting set up and in Thanksgiving week it will be a review activity.
+
+In-person activities for the course will start as usual in week 1 (September
+26).
+
+Lecture on Wednesday, November 23 will be **remote** and
+**asynchronous**. There will still be lecture content with associated
+*participation, but you can do it any time on the 23rd.
+
+**Q: I have a question about enrollment or the waitlist.**
+
+At this point, the waitlist is processed in first-come, first-serve order – for
+each student in the class that drops, a student on the waitlist joins. To get a
+spot in the class you should attend lecture and lab and do all the usual course
+activities. Check the web registration across all the sections; the course has
+10 separate lab sections, and their enrollments and waitlists fluctuate. Contact
+[CSE Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising) for
+more information on enrollment and waitlist processes.
+
+**Q: How should I prepare for the course?**
+
+Review Java (for example, [CSE11](https://ucsd-cse11-f21.github.io/)). Get
+enough sleep and set up your schedule so you can make the class and lab times.
+Bookmark this web site!
+
