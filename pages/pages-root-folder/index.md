@@ -28,28 +28,6 @@ title: "Software Tools & Techniques Lab (UCSD CSE15L)"
 
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
 
-## Material and Schedule
-
-<ul class="material">
-    {% for post in site.categories.week reversed %}
-    <li class="{% if post.current %}current{% else %}gray{% endif %}">
-    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    <ul>
-      {% for todo in post.todos %}
-      <li><a href="{{ todo.url }}">{{ todo.name }}</a> - Due {{ todo.due-date }}</li>
-      {% endfor %}
-    </ul>
-    
-    </li>
-    {% endfor %}
-</ul>
-
-## Course Calendar
-
-This calendar shows rooms for scheduled in-person lecture and lab meetings.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_7ci66429f3tppf1qfhijom88m4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## Frequently Asked Questions
 
 For now, this page is a placeholder and holds frequently asked questions about
@@ -97,3 +75,25 @@ Review Java (for example, [CSE11](https://ucsd-cse11-f21.github.io/)). Get
 enough sleep and set up your schedule so you can make the class and lab times.
 Bookmark this web site!
 
+
+## Material and Schedule
+
+<ul class="material">
+    {% for post in site.categories.week reversed %}
+    <li class="{% if post.current %}current{% else %}gray{% endif %}">
+    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <ul>
+      {% for todo in post.todos %}
+      <li><a href="{{ todo.url }}">{{ todo.name }}</a> - Due {{ todo.due-date }}</li>
+      {% endfor %}
+    </ul>
+    
+    </li>
+    {% endfor %}
+</ul>
+
+## Course Calendar
+
+This calendar shows rooms for scheduled in-person lecture and lab meetings.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_7ci66429f3tppf1qfhijom88m4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
