@@ -50,7 +50,8 @@ you should plan to attend both lecture and your assigned lab section every week.
 There will be no official lab sessions in week 0 (because it would only be the
 Thursday lab sessions) and no lab on November 23/24. All students will have a
 shorter asynchronous activity in those times – in week 0 it will be about
-getting set up and in Thanksgiving week it will be a review activity.
+getting set up and in Thanksgiving week it will be about relevant material at
+that point in the course.
 
 In-person activities for the course will start as usual in week 1 (September
 26).
