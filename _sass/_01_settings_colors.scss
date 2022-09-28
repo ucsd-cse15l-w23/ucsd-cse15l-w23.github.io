@@ -151,13 +151,3 @@ $highlight-name-tag: #000080;
 $highlight-text-whitespace: #bbbbbb;
 $highlight-literal-string-regex: #009926;
 $highlight-literal-string-symbol: #990073;
-
-$background-color_1: rgb(255, 148, 255);
-$background-color_2: rgb(255, 138, 138);
-
-.local {
-	background-color: $background-color_1;
-}
-.remote {
-	background-color: $background-color_2;
-}
