@@ -6,6 +6,8 @@ teaser: ""
 permalink: "/office-hours/"
 header: no
 ---
+Bhavani: Thursday 10am-12pm, outside CSE building
+
 
 Coming soon!
 ### Staff
