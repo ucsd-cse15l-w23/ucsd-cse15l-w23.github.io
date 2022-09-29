@@ -7,9 +7,7 @@ permalink: "/office-hours/"
 header: no
 ---
 Bhavani: Thursday 10am-12pm, outside CSE building
-
-
-Coming soon!
+Ashritha: Wednesday 4-6pm, hallway of CSE basement
 ### Staff
 
 <style>
