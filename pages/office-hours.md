@@ -6,6 +6,9 @@ teaser: ""
 permalink: "/office-hours/"
 header: no
 ---
+
+**Joe**: Tuesday 2-3pm, CSE 3206
+
 **Bhavani**: Thursday 10am-12pm, outside CSE building
 
 **Ashritha**: Wednesday 4-6pm, hallway of CSE basement
@@ -16,8 +19,6 @@ header: no
 
 **Rachel**: Tuesday 11am-12pm, Zoom (link will be posted on Piazza)
 
-
-### Staff
 
 <style>
           #main_rect {
