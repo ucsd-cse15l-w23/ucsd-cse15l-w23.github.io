@@ -11,7 +11,7 @@ header: no
 
 **Bhavani**: Thursday 10am-12pm, outside CSE building
 
-**Ashritha**: Wednesday 4-6pm, hallway of CSE basement
+**Ashritha**: Thursday 4-6pm, hallway of CSE basement
 
 **Enzo**: Tuesday 12-2pm, lobby of CSE building (1st floor)
 
