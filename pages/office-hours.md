@@ -13,7 +13,7 @@ header: no
 
 **Ashritha**: Thursday 4-6pm, hallway of CSE basement
 
-**Enzo**: Tuesday 12-2pm, lobby of CSE building (1st floor)
+**Enzo**: Tuesday 12-2pm, lobby of CSE building (1st floor) infront of CSE 1202
 
 **Emily**: Wednesday 3:30-5:30, CSE B275
 
