@@ -130,7 +130,7 @@ To pass the course, you must fully pass **both** skill demonstrations.
 - **B** achievement:
     - 6 or more lab participation
     - 9/10 quizzes complete and correct, no more than 5 late
-    - All but 4 handouts submitted, any number can be late (up to the next
+    - All but 5 handouts submitted, any number can be late (up to the next
     lecture)
     - 4 lab reports with full credit/feedback addressed
     - Passing score on **both** skill demonstrations (either initially or with the
