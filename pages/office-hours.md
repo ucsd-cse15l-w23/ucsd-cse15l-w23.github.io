@@ -9,7 +9,7 @@ header: no
 
 **Joe**: Tuesday 2-3pm, CSE 3206
 
-**Bhavani**: Thursday 10am-12pm, outside CSE building
+**Bhavani**: Thursday 10am-12pm, outside CSE building at the tables
 
 **Ashritha**: Thursday 4-6pm, CSE Basement outside B260
 
