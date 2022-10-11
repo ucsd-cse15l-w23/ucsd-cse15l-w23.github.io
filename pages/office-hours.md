@@ -17,7 +17,7 @@ header: no
 
 **Emily**: Wednesday 3:30-5:30, CSE B275
 
-**Rachel**: Tuesday 11am-12pm, Zoom (link will be posted on Piazza)
+**Rachel**: Tuesday 11:30am-12:30pm, Zoom (link will be posted on Piazza)
 
 
 <style>
