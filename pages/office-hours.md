@@ -11,7 +11,7 @@ header: no
 
 **Bhavani**: Thursday 10am-12pm, CSE Basement tables outside B240
 
-**Ashritha**: Thursday 4-6pm, CSE Basement outside B260
+**Ashritha**: Thursday 4-6pm, CSE B270 Lab (you'll find me as soon as you enter the lab)
 
 **Enzo**: Tuesday 12-2pm, lobby of CSE building (1st floor) infront of CSE 1202
 
