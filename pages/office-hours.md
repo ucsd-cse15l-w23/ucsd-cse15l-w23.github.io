@@ -13,7 +13,7 @@ header: no
 
 **Ashritha**: Thursday 4-6pm, CSE B270 Lab (you'll find me as soon as you enter the lab)
 
-**Enzo**: Tuesday 12-2pm, lobby of CSE building (1st floor) infront of CSE 1202
+**Enzo**: Thursday 2pm-3:50pm, lobby of CSE building (1st floor) infront of CSE 1202
 
 **Emily**: Wednesday 3:30-5:30, CSE B275
 
