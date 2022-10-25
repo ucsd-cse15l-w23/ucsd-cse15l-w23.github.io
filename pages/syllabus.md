@@ -88,7 +88,9 @@ you learned.
 
 For each post, our staff will review it and either give full credit or give
 feedback; you must respond to the feedback to receive full credit on your post.
-We'll post specific final deadlines for this feedback with each assignment.
+We'll post specific final deadlines for this feedback with each assignment. In
+general you will get a final score of 2, 1, or 0. The gradeing section below
+talks about how this relates to your course grade.
 
 ### Skill Demonstrations
 
@@ -124,7 +126,7 @@ To pass the course, you must fully pass **both** skill demonstrations.
     - 7 or more lab participation (there are 8 labs that aren't skill demonstrations)
     - All quizzes complete and correct, no more than 3 late
     - All but 3 handouts submitted complete, no more than 10 late
-    - All 5 lab reports complete with full credit/feedback addressed
+    - All 5 lab reports complete, 4 with full credit/feedback addressed
     - Passing score on **both** skill demonstrations (either initially or with the
     final make-up)
 - **B** achievement:
@@ -132,13 +134,13 @@ To pass the course, you must fully pass **both** skill demonstrations.
     - 9/10 quizzes complete and correct, no more than 5 late
     - All but 5 handouts submitted, any number can be late (up to the next
     lecture)
-    - 4 lab reports with full credit/feedback addressed
+    - All 5 lab reports complete, 3 with full credit/feedback addressed
     - Passing score on **both** skill demonstrations (either initially or with the
     final make-up)
 - **C** achievement:
     - 5 or more lab participation
     - 7/10 quizzes complete and correct, submitted at any time
-    - At least 3 lab reports with full credit/feedback addressed
+    - All 5 lab reports complete, at least 2 with full credit/feedback addressed
     - Over half of handouts submitted, any number can be late
     - Passing score on **both** skill demonstrations (either initially
     or with the final make-up)
