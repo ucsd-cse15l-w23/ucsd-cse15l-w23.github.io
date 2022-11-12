@@ -32,31 +32,20 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
 
 ## Material and Schedule
 
-<ul class="material">
-    {% for post in site.categories.week reversed %}
-    <li class="{% if post.current %}current{% else %}gray{% endif %}">
-    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    <ul>
-      {% for todo in post.todos %}
-      <li><a href="{{ todo.url }}">{{ todo.name }}</a> - Due {{ todo.due-date }}</li>
-      {% endfor %}
-    </ul>
-    
-    </li>
-    {% endfor %}
-</ul>
-
-## Course Calendar
-
-This calendar shows rooms for scheduled in-person lecture and lab meetings.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_7ci66429f3tppf1qfhijom88m4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+Coming soon!
 
 ## Frequently Asked Questions
 
 For now, this page is a placeholder and holds frequently asked questions about
 the course. This site will switch to containing the official course website and
-syllabus at the start of winter quarter (September 19, 2022).
+syllabus at the start of winter quarter (January 2023).
+
+**Q: I'm also taking Math 18, or some other course whose final exam time
+overlaps with CSE15L. What should I do?**
+
+We will have scheduled oral exams in CSE15L with appointment slots.  If you
+don't have the time of the final exam free due to a conflict, you just need to
+be flexible in scheduling your exam some time during finals week.
 
 **Q: Will the course have remote options?**
 
@@ -66,23 +55,9 @@ but we will not have remote equivalents for completing lab and lecture.
 
 **Q: Is participation required?**
 
-Yes. A final policy will be posted by the start of the quarter with details, but
-you should plan to attend both lecture and your assigned lab section every week.
-
-**Q: What about week 0 and Thanksgiving week?**
-
-There will be no official lab sessions in week 0 (because it would only be the
-Thursday lab sessions) and no lab on November 23/24. All students will have a
-shorter asynchronous activity in those times – in week 0 it will be about
-getting set up and in Thanksgiving week it will be about relevant material at
-that point in the course.
-
-In-person activities for the course will start as usual in week 1 (September
-26).
-
-Lecture on Wednesday, November 23 will be **remote** and
-**asynchronous**. There will still be lecture content with associated
-*participation, but you can do it any time on the 23rd.
+Yes. A final policy will be posted by the start of the quarter with details,
+but you should plan to attend both lecture and your assigned lab section every
+week.
 
 **Q: I have a question about enrollment or the waitlist.**
 
@@ -96,6 +71,7 @@ more information on enrollment and waitlist processes.
 
 **Q: How should I prepare for the course?**
 
-Review Java (for example, [CSE11](https://ucsd-cse11-f21.github.io/)). Get
-enough sleep and set up your schedule so you can make the class and lab times.
-Bookmark this web site!
+Review Java (for example, [CSE11](https://ucsd-cse11-f21.github.io/)). Check
+out some related resources like [MIT missing
+semester](https://missing.csail.mit.edu/). Get enough sleep and set up your
+schedule so you can make the class and lab times. Bookmark this web site! 
