@@ -28,7 +28,7 @@ title: "Software Tools & Techniques Lab (UCSD CSE15L)"
 
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
 
-
+**This is the page for the winter 2023 edition of the course.**
 
 ## Material and Schedule
 
@@ -61,13 +61,11 @@ week.
 
 **Q: I have a question about enrollment or the waitlist.**
 
-At this point, the waitlist is processed in first-come, first-serve order – for
-each student in the class that drops, a student on the waitlist joins. To get a
-spot in the class you should attend lecture and lab and do all the usual course
-activities. Check the web registration across all the sections; the course has
-10 separate lab sections, and their enrollments and waitlists fluctuate. Contact
-[CSE Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising) for
-more information on enrollment and waitlist processes.
+Check the web registration across all the sections; the course has 14 separate
+lab sections, and their enrollments and waitlists are independent and
+fluctuate. Contact [CSE
+Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising) for more
+information on enrollment and waitlist processes.
 
 **Q: How should I prepare for the course?**
 
