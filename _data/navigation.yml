@@ -10,8 +10,8 @@
   url: "/weeks/"
   side: left
   dropdown:
-  - title: "Week 0"
-    url: "/week/week0/"
+  - title: "Week 1"
+    url: "/week/week1/"
 
 - title: "Office Hours"
   url: "/office-hours/"
