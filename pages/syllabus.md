@@ -101,6 +101,53 @@ same types in this offering) [[W22 demo
 1]](https://ucsd-cse15l-w22.github.io/week/week5/#skill-demonstration-1) [[W22
 demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
 
+## Grading {#grading}
+
+Each component of the course has a minimum achievement level to get an A, B, or
+C in the course. You must reach that achievement level in _all_ of the
+categories to get an A, B, or C. Pluses and minuses will be given around the
+boundaries of these categories at the instructor's discretion.
+
+To get a B or better in the course, you must fully pass **both** skill
+demonstrations.
+  
+To pass the course, you must pass **one of two** skill demonstrations (either
+initially or with the final make-up), and have a submission/attempt for both.
+
+- **A** achievement:
+    - 6 or more lab participation (out of 8 labs that aren't skill demonstrations)
+    - All 5 lab reports completed, at least 4 with full credit/feedback addressed
+    - Passing score on **both** skill demonstrations (either initially or with the
+    final make-up)
+- **B** achievement:
+    - 5 or more lab participation
+    - All 5 lab reports completed, at least 2 with full credit/feedback addressed
+    - Passing score on **both** skill demonstrations (either initially or
+      with the final make-up)
+- **C** achievement:
+    - 4 or more lab participation
+    - At least 3 lab reports completed, at least 2 with full credit/feedback addressed
+    - Passing score on **one** skill demonstration (either initially or
+      with the final make-up), with the other one attempted
+
+Quizzes and lecture attendance increase or decrease your scores relative to
+these thresholds. I don't publish an exact number for these in advance, but if
+you submit all of the lecture handouts and all of the quizzes on time and
+complete, that will definitely add a `+` to the grade. If you submit no lecture
+handouts and no quizzes, that will definitely add a `-` to the grade. If you
+submit about half and get things generally mostly correct, there will be no
+modifier.
+
+
+
+## Consent to Participate in Educational Research
+
+You can download a copy of the form below
+[here](https://docs.google.com/document/d/14HNe2U5-oBXtWgNKqNpTkhPiBjEhnlOKX2DJfBhnOO8/)
+if you need a copy to fill out.
+
+<iframe width="100%" height="800px" src="https://docs.google.com/document/d/e/2PACX-1vSssZh6Sb22jt0dKnwc2NHG7wKPCE1Ehi-o2QdJUd9c1MZjY_1AvcIrH-a2tTIcHEROGfGFJhNfJAjW/pub?embedded=true"></iframe>
+
 
 
 </div>
