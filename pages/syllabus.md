@@ -19,8 +19,88 @@ header: no
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## Coming soon!
+## Course Components {#components}
 
-This page will be updated with syllabus details at the start of the quarter.
+There are several components to the course:
+
+- **Lab sessions**
+- **Lecture sessions**
+- **Weekly quizzes**
+- **Lab reports/portfolio posts**
+- **Skill demonstrations**
+
+### Labs
+
+The course's lab component meets for 2 hours on Wednesdays or Thursdays. In
+each lab you'll switch between working on your own, working in pairs, and
+participating in group discussions about your approach, lessons learned,
+programming problems, and so on.
+
+The lab sessions and groups will be led by TAs and tutors, who will note your
+participation in these discussions for credit. Note that you must
+**participate**, not merely **attend**, for credit.
+
+If you miss lab, you'll still be held accountable for understanding the
+relevant material via Skill Demonstrations and Lab Reports. You can miss 2 labs
+without it impacting your grade (see [Grading](#grading) below).
+
+### Lecture Sessions
+
+Lecture sessions are on Monday and Wednesday. You can only attend the section
+(12pm or 1pm) to which you are assigned. Depending how things go after the first
+week or two, we might relax this and allow attendance in either section.
+
+In each lecture, we'll have a paper handout (also available electronically). At
+the end of lecture you'll have a chance submit your handout to Gradescope. You
+can do this by scanning it in the Gradescope app (for iOS and Android) or
+through the web interface. To get participation credit for lecture, you have to
+submit a handout filled in with reasonable effort. It's fine if answers aren't
+right, and some days don't have right answers. It's fine if things aren't
+totally complete, and some days we won't finish everything. But it should be
+obvious that you followed along and completed the exercises we did in class.
+
+If you miss class, you can submit them up until the start of the next class for
+no penalty up to 10 times -- we recommend completing them while watching the
+podcast. The rest of the times you have to have a submission during the class
+period. We'll have TAs on hand as backup to collect the physical paper/help you
+scan and submit if you have any issue submitting. See [Grading](#grading) below
+for the required submissions and how that correlates with your grade.
+
+### Weekly Quizzes
+
+Each week there will be an online, untimed, multiple-tries quiz due on
+_Wednesday at noon_ (including week 1). The purpose of this quiz is to make sure
+everyone has checked in on the concepts we will be using in lab on Wednesday and
+Thursday. They are open for late submission until the end of the quarter, but
+see grading below for how late submissions correspond to grades.
+
+Sometimes quizzes have associated readings or videos to supplement lecture.
+
+### Lab Reports/Portfolio Posts
+
+Every other Monday (of weeks 2, 4, 6, 8, 10) you will submit a lab report on
+work from the previous week or two of lab material. This will take the form of
+a blog post on a personal site you created in the first week.  At the end of
+the quarter this means you'll have a personal web site with 5 posts detailing
+what you learned.
+
+For each post, our staff will review it and either give full credit or give
+feedback; you must respond to the feedback to receive full credit on your post.
+We'll post specific final deadlines for this feedback with each assignment.
+
+### Skill Demonstrations
+
+Twice during the quarter (week 5 and week 10), we will spend lab doing skill
+demonstrations -- this course's version of exams. In the lab, you'll spend 10
+minutes 1-on-1 with a staff member doing a short demonstration of using some of
+the skills you've learned. You'll be given a problem to practice in advance, and
+then in the demo you'll answer some questions about extending and/or modifying
+the in-advance task. You can look at the skill demonstrations from previous
+offerings for a sense of what tasks we assign (though we may or may not use the
+same types in this offering) [[W22 demo
+1]](https://ucsd-cse15l-w22.github.io/week/week5/#skill-demonstration-1) [[W22
+demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
+
+
 
 </div>
