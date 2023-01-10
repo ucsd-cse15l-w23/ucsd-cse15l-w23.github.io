@@ -32,7 +32,25 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
 
 ## Material and Schedule
 
-Coming soon!
+<ul class="material">
+    {% for post in site.categories.week reversed %}
+    <li class="{% if post.current %}current{% else %}gray{% endif %}">
+    <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    <ul>
+      {% for todo in post.todos %}
+      <li><a href="{{ todo.url }}">{{ todo.name }}</a> - Due {{ todo.due-date }}</li>
+      {% endfor %}
+    </ul>
+    
+    </li>
+    {% endfor %}
+</ul>
+
+## Course Calendar
+
+This calendar shows rooms for scheduled in-person lecture and lab meetings.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_de29a534b0fd24f875f64582371383ec4456898435a842b7b554ceb65c8388b3%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Frequently Asked Questions
 
