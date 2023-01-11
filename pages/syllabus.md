@@ -47,7 +47,7 @@ without it impacting your grade (see [Grading](#grading) below).
 ### Lecture Sessions
 
 Lecture sessions are on Monday and Wednesday. You can only attend the section
-(12pm or 1pm) to which you are assigned. Depending how things go after the first
+(9am or 10am) to which you are assigned. Depending how things go after the first
 week or two, we might relax this and allow attendance in either section.
 
 In each lecture, we'll have a paper handout (also available electronically). At
