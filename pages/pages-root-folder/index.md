@@ -54,10 +54,6 @@ This calendar shows rooms for scheduled in-person lecture and lab meetings.
 
 ## Frequently Asked Questions
 
-For now, this page is a placeholder and holds frequently asked questions about
-the course. This site will switch to containing the official course website and
-syllabus at the start of winter quarter (January 2023).
-
 **Q: I'm also taking Math 18, or some other course whose final exam time
 overlaps with CSE15L. What should I do?**
 
