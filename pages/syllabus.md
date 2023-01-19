@@ -59,12 +59,11 @@ right, and some days don't have right answers. It's fine if things aren't
 totally complete, and some days we won't finish everything. But it should be
 obvious that you followed along and completed the exercises we did in class.
 
-If you miss class, you can submit them up until the start of the next class for
-no penalty up to 10 times -- we recommend completing them while watching the
-podcast. The rest of the times you have to have a submission during the class
-period. We'll have TAs on hand as backup to collect the physical paper/help you
-scan and submit if you have any issue submitting. See [Grading](#grading) below
-for the required submissions and how that correlates with your grade.
+If you miss class, you can submit them up until the start of the next class as
+late submissions.  We recommend completing them while watching the podcast.
+We'll have TAs on hand as backup to collect the physical paper/help you scan and
+submit if you have any issue submitting. See [Grading](#grading) below for the
+required submissions and how that correlates with your grade.
 
 ### Weekly Quizzes
 
