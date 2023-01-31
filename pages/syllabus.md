@@ -149,8 +149,8 @@ your lab report. Your lab reports can be public. All of the *writing* in lab
 reports must be your own.
 
 You **can** use an AI assistant like ChatGPT or Copilot to help you author lab
-reports. However, if you do, you are **required** to include a section of your
-lab report that shows:
+reports or write code in this class. If you do, you are **required** to include
+a section of your lab report that shows:
 
 - The prompts you gave to ChatGPT, or the context in which you used Copilot
   autocomplete
