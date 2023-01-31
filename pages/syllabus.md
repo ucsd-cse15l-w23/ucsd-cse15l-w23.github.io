@@ -137,6 +137,41 @@ handouts and no quizzes, that will definitely add a `-` to the grade. If you
 submit about half and get things generally mostly correct, there will be no
 modifier.
 
+## Academic Integrity
+
+Individual assignments describe policies specific to the assignment. Some
+general policies for the course are here.
+
+### Lab Reports and Academic Integrity
+
+You can use code that we provide or that your group develops in lab as part of
+your lab report. Your lab reports can be public. All of the *writing* in lab
+reports must be your own.
+
+You **can** use an AI assistant like ChatGPT or Copilot to help you author lab
+reports. However, if you do, you are **required** to include a section of your
+lab report that shows:
+
+- The prompts you gave to ChatGPT, or the context in which you used Copilot
+  autocomplete
+- What its output was and how you changed the output after it was produced
+
+This helps us _all_ learn how these new, powerful, and little-understood tools
+work (and don't).
+
+### Skill Demonstrations and Academic Integrity
+
+Instructions for skill demonstrations will be posted a few days before the lab
+in which they happen. You're free to collaborate with others on preparing for
+the skill demonstration, trying things out beforehand, and so on.
+
+You **cannot** share details of _your_ skill demonstration with others until
+after you receive your grade for it.
+
+### Quizzes and Academic Integrity
+
+You can work on weekly quizzes with other students.
+
 
 
 ## Consent to Participate in Educational Research
