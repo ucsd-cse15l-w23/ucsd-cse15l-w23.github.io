@@ -100,14 +100,21 @@ same types in this offering) [[W22 demo
 1]](https://ucsd-cse15l-w22.github.io/week/week5/#skill-demonstration-1) [[W22
 demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
 
+On each you'll get a **High Pass**, **Pass**, or **Try Again** as your score.
+In finals week, you'll have the opportunity to improve the score for either or
+both skill demonstration.
+
+(Originally, we had listed these as being graded only pass/fail, with completing
+*all* the steps required for passing. Rather than require all the steps for each
+of them, we distinguish the different achievement levels a bit more.)
+
 ## Grading {#grading}
 
 Each component of the course has a minimum achievement level to get an A, B, or
 C in the course. You must reach that achievement level in _all_ of the
-categories to get an A, B, or C. Pluses and minuses will be given around the
-boundaries of these categories at the instructor's discretion.
+categories to get an A, B, or C.
 
-To get a B or better in the course, you must fully pass **both** skill
+To get a B or better in the course, you must pass **both** skill
 demonstrations.
   
 To pass the course, you must pass **one of two** skill demonstrations (either
@@ -116,26 +123,27 @@ initially or with the final make-up), and have a submission/attempt for both.
 - **A** achievement:
     - 6 or more lab participation (out of 8 labs that aren't skill demonstrations)
     - All 5 lab reports completed, at least 4 with full credit/feedback addressed
-    - Passing score on **both** skill demonstrations (either initially or with the
-    final make-up)
+    - **High pass** score on **one** skill demonstration, **pass** on the other
+    (either initially or with the final make-up)
 - **B** achievement:
     - 5 or more lab participation
     - All 5 lab reports completed, at least 2 with full credit/feedback addressed
-    - Passing score on **both** skill demonstrations (either initially or
-      with the final make-up)
+    - **Pass** or **High pass** on both skill demonstrations (either initially
+    or with the final make-up)
 - **C** achievement:
     - 4 or more lab participation
     - At least 3 lab reports completed, at least 2 with full credit/feedback addressed
     - Passing score on **one** skill demonstration (either initially or
       with the final make-up), with the other one attempted
 
-Quizzes and lecture attendance increase or decrease your scores relative to
-these thresholds. I don't publish an exact number for these in advance, but if
-you submit all of the lecture handouts and all of the quizzes on time and
-complete, that will definitely add a `+` to the grade. If you submit no lecture
-handouts and no quizzes, that will definitely add a `-` to the grade. If you
-submit about half and get things generally mostly correct, there will be no
-modifier.
+Pluses and minuses will be given around the boundaries of these categories at
+the instructor's discretion and based on quiz/lecture participation.  I don't
+publish an exact number for these in advance, but it's consistent across the
+class. A general guideline is: if you submit all of the lecture handouts and
+all of the quizzes on time and complete, that will definitely add a `+` to the
+grade. If you submit no lecture handouts and no quizzes, that will definitely
+add a `-` to the grade.  If you submit about half and get things generally
+mostly correct, there will be no modifier.
 
 ## Academic Integrity
 
@@ -171,8 +179,6 @@ after you receive your grade for it.
 ### Quizzes and Academic Integrity
 
 You can work on weekly quizzes with other students.
-
-
 
 ## Consent to Participate in Educational Research
 
