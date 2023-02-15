@@ -100,7 +100,7 @@ same types in this offering) [[W22 demo
 1]](https://ucsd-cse15l-w22.github.io/week/week5/#skill-demonstration-1) [[W22
 demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
 
-On each you'll get a **High Pass**, **Pass**, or **Try Again** as your score.
+On each you'll get a **Full Pass**, **Partial Pass**, or **Try Again** as your score.
 In finals week, you'll have the opportunity to improve the score for either or
 both skill demonstration.
 
@@ -123,17 +123,17 @@ initially or with the final make-up), and have a submission/attempt for both.
 - **A** achievement:
     - 6 or more lab participation (out of 8 labs that aren't skill demonstrations)
     - All 5 lab reports completed, at least 4 with full credit/feedback addressed
-    - **High pass** score on **one** skill demonstration, **pass** on the other
+    - **Full Pass** score on **one** skill demonstration, **Partial Pass** on the other
     (either initially or with the final make-up)
 - **B** achievement:
     - 5 or more lab participation
     - All 5 lab reports completed, at least 2 with full credit/feedback addressed
-    - **Pass** or **High pass** on both skill demonstrations (either initially
+    - **Pass** or **Full Pass** on both skill demonstrations (either initially
     or with the final make-up)
 - **C** achievement:
     - 4 or more lab participation
     - At least 3 lab reports completed, at least 2 with full credit/feedback addressed
-    - Passing score on **one** skill demonstration (either initially or
+    - **Pass** or higher on **one** skill demonstration (either initially or
       with the final make-up), with the other one attempted
 
 Pluses and minuses will be given around the boundaries of these categories at
