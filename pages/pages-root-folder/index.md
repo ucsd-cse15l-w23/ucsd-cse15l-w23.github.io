@@ -81,9 +81,16 @@ Yes. A final policy will be posted by the start of the quarter with details,
 but you should plan to attend both lecture and your assigned lab section every
 week.
 
+**Q: I want to switch lab sections.**
+
+You are welcome to drop and re-add any section within the constraints of the
+web registration system. The labs are fully enrolled (which means the rooms are
+quite full), and we can't offer moving between sections outside of official
+enrollment.
+
 **Q: I have a question about enrollment or the waitlist.**
 
-Check the web registration across all the sections; the course has 14 separate
+Check the web registration across all the sections; the course has 10 separate
 lab sections, and their enrollments and waitlists are independent and
 fluctuate. Contact [CSE
 Advising](https://cse.ucsd.edu/undergraduate/undergraduate-advising) for more
